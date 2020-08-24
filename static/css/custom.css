@@ -1,0 +1,19 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+.videoz {
+    position: absolute;
+    z-index: -1;
+    width: 90%;
+    left: 5%;
+    height: 65%;
+    top: 34%
+    
+}
+
+.backtop{
+    background-color: #f5b2b6;
+}
+.zind2 {
+z-index: 500;
+}
